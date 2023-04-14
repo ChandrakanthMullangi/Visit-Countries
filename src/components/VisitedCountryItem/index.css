@@ -1,0 +1,35 @@
+.visited-country-item {
+  width: 350px;
+  background-color: #1f1f2f;
+  margin-bottom: 25px;
+  margin-right: 25px;
+}
+
+.country-image {
+  height: auto;
+  width: 350px;
+}
+
+.visited-country-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 25px;
+}
+
+.visited-country-name {
+  font-family: Roboto;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.remove-button {
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  font-family: Roboto;
+  font-size: 14px;
+  color: #ffffff;
+  padding: 8px 16px;
+  cursor: pointer;
+}
